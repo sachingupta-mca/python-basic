@@ -49,3 +49,14 @@ student = {
 print(student["name"]) # access the value of key "name" using square brackets []
 print(student.get("name")) # best method
 
+student.update({"town" : "Kolkatta"})
+print(student)
+
+new_dict = {
+    "country" : "India"
+}
+
+student.update(new_dict)
+
+print(student)
+
