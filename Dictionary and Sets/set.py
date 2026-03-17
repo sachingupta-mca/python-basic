@@ -79,10 +79,10 @@
 # Figure out to store 9 & 9.0 as a seprate values in the set
 # you can take the help of built in data types)
 
-values = {
-    ("float" , 9.0),
-    ("int" , 9),
-    (9,"9.0")
-}
+# values = {
+#     ("float" , 9.0),
+#     ("int" , 9),
+#     (9,"9.0")
+# }
 
-print(values)
+# print(values)
